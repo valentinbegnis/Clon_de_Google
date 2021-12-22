@@ -34,3 +34,8 @@ nav .nav-right-section a {
     margin-right: 10px;
     color: #000;
 }
+
+nav .nav-right-section img {
+    border-radius: 50%;
+    margin-left: 10px;
+}
